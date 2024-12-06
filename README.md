@@ -7,5 +7,8 @@
 #
 ## Day 1 (06/12/2024)
 ### Dr Cuong presents "VIETNAM SCHOOL OF BIOLOGY (VSOB): Past, Present and Future"
-### Dr Tran Thanh Son "The impacts of VSOB"
+### Dr Tran Thanh Son "The impacts and international extension of VSOB"
+###
+### 
+
 
