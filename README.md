@@ -23,7 +23,7 @@
 ### [**Input files from Galaxy can be download via link**](https://usegalaxy.org.au/u/tam-tran/h/rnasequpstreamtest)
 ● Mapped post-processing\
 ● Alignment QC
-### [**Output files from Galaxy can be download via link**](https://usegalaxy.org.au/u/tam-tran/h/rnasequpstreamtest)
+### [**Output files from Galaxy can be download via link**](https://usegalaxy.org.au/published/history?id=06790bbe3b46aec0)
 #
 #
 ## Day 2 (07/12/2024)
