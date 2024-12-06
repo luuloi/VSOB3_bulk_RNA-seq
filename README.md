@@ -17,6 +17,8 @@
 ### 5) Dr. Nguyen Thuy Vy presents "A Guide for Designing and Analyzing RNA-Seq Data"
 ## Afternoon Section
 ### [**6) Dr. Tran Thi Thanh Tam with hands-on section on "RNA-seq: Upstream Analysis Part I"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/c85de92dedf1be0657ce446a7a05ef33513db356/Day1_20241206/03-VSOB3_RNA_seq_Upstream_Analysis_partI_Tam_Tran_part1.pdf)
+#### Create Galaxy account at https://usegalaxy.org.au/login/start?redirect=None
+#### Link for training in Galaxy at https://usegalaxy.org.au/join-training/vsob3/
 ### [**Input Fastq files can be download via link**](https://drive.google.com/drive/folders/14k-lzmrjOdmzaA2a6vyQZwnoL6i_ABEa?usp=sharing)
 ● Quality control - FastQC\
 ● Trimming\
