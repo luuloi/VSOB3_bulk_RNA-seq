@@ -20,7 +20,7 @@
 ### [**Input Fastq files can be downloaded from Google Drive**](https://drive.google.com/drive/folders/14k-lzmrjOdmzaA2a6vyQZwnoL6i_ABEa?usp=sharing)
 ### [**Input Fastq files can be downloaded from Galaxy**](https://usegalaxy.org.au/u/tam-tran/h/rnaseq-raw-data)
 ● Quality control - FastQC\
-● Trimming\
+● Trimming - [**qctrimming data**](https://usegalaxy.org.au/u/tam-tran/w/rnaseqqctrimmingmapping)\
 ● Mapping
 ### [**Output files from Galaxy can be downloaded via link**](https://usegalaxy.org.au/u/tam-tran/h/rnasequpstreamtest)
 ### [**7) Dr. Do Hoang Dang Khoa with hands-on section "RNA-seq: Upstream Analysis Part II"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/4c740a26222f448eddaa83fffde79a4574585ade/Day1_20241206/RNASeq_UPSTREAM_ANALYSIS_PART2.pptx)
