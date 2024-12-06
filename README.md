@@ -13,14 +13,14 @@
 ### 4) Dr. Nguyen Thuy Vy presents "Fundamental concepts of RNA sequencing experiments"
 ### 5) Dr. Nguyen Thuy Vy presents "A Guide for Designing and Analyzing RNA-Seq Data"
 ## Afternoon Section
-### 6) Dr. Tran Thi Thanh Tam: RNA-seq: Upstream Analysis Part I
-### [**Fastq files can be download via link**](https://drive.google.com/drive/folders/14k-lzmrjOdmzaA2a6vyQZwnoL6i_ABEa?usp=sharing)
+### 6) Dr. Tran Thi Thanh Tam with hands-on section on "RNA-seq: Upstream Analysis Part I"
+### [**Input Fastq files can be download via link**](https://drive.google.com/drive/folders/14k-lzmrjOdmzaA2a6vyQZwnoL6i_ABEa?usp=sharing)
 ● Quality control - FastQC\
 ● Trimming\
 ● Mapping\
 ### [**Output files from Galaxy can be download via link**](https://usegalaxy.org.au/u/tam-tran/h/rnasequpstreamtest)
-### 6) Dr. Do Hoang Dang Khoa: RNA-seq: Upstream Analysis Part II
-### [**Fastq files can be download via link**](https://drive.google.com/drive/folders/14k-lzmrjOdmzaA2a6vyQZwnoL6i_ABEa?usp=sharing)
+### 6) Dr. Do Hoang Dang Khoa with hands-on section on "RNA-seq: Upstream Analysis Part II
+### [**Input files from Galaxy can be download via link**](https://usegalaxy.org.au/u/tam-tran/h/rnasequpstreamtest)
 ● Mapped post-processing\
 ● Alignment QC
 ### [**Output files from Galaxy can be download via link**](https://usegalaxy.org.au/u/tam-tran/h/rnasequpstreamtest)
