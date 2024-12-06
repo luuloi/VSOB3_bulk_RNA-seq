@@ -13,8 +13,8 @@
 ### [**1) Dr. Cuong presents "VIETNAM SCHOOL OF BIOLOGY (VSOB): Past, Present and Future"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/d29ef639ea3bae0c557753d6c8d4ef70033b8224/Day1_20241206/VSOB-intro_Dr_Cuong.pdf)
 ### 2) Dr. Tran Thanh Son presents "The impacts and international extension of VSOB"
 ### [**3) Dr. Deeksha Bhartiya presents "Beyond the Basics: Innovative Applications of RNA Sequencing in Research" (Keynote 1)**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/d29ef639ea3bae0c557753d6c8d4ef70033b8224/Day1_20241206/)
-### 4) Dr. Nguyen Thuy Vy presents "Fundamental concepts of RNA sequencing experiments"
-### 5) Dr. Nguyen Thuy Vy presents "A Guide for Designing and Analyzing RNA-Seq Data"
+### [**4) Dr. Nguyen Thuy Vy presents "Fundamental concepts of RNA sequencing experiments"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/2cb9ff8d0e4cc6e48d45dfde287b5933229bec8d/Day1_20241206/01-VSOB3-NTVy-FundamentalConcepts.pdf)
+### [**5) Dr. Nguyen Thuy Vy presents "A Guide for Designing and Analyzing RNA-Seq Data"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/2cb9ff8d0e4cc6e48d45dfde287b5933229bec8d/Day1_20241206/02-VSOB3-NTVy-ExpDesign.pdf)
 ## Afternoon Section
 ### [**6) Dr. Tran Thi Thanh Tam with hands-on section on "RNA-seq: Upstream Analysis Part I"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/c85de92dedf1be0657ce446a7a05ef33513db356/Day1_20241206/03-VSOB3_RNA_seq_Upstream_Analysis_partI_Tam_Tran_part1.pdf)
 #### Create Galaxy account at https://usegalaxy.org.au/login/start?redirect=None
