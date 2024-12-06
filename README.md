@@ -15,6 +15,7 @@
 ## Afternoon Section
 ### 5) Dr. Tran Thi Thanh Tam and Dr. Do Hoang Dang Khoa
 ### RNA-seq: Upstream Analysis
+### [**Fastq files can be download via link**](https://drive.google.com/drive/folders/14k-lzmrjOdmzaA2a6vyQZwnoL6i_ABEa?usp=sharing)
 ● Quality control - FastQC\
 ● Trimming\
 ● Mapping\
