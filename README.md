@@ -18,7 +18,7 @@
 ● Trimming\
 ● Mapping\
 ● Mapped post-processing\
-● Alignment QC\
+● Alignment QC
 ###
 ## Day 2 (07/12/2024)
 ### Dr. Vo Sy Nam presents "Functional-oriented analysis of multi-omics data in The Vietnam Genome Program: A Perspective"
