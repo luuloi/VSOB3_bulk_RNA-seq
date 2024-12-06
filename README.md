@@ -21,6 +21,7 @@
 ● Mapping\
 ● Mapped post-processing\
 ● Alignment QC
+### [**Output files from Galaxy can be download via link**](https://usegalaxy.org.au/u/tam-tran/h/rnasequpstreamtest)
 #
 #
 ## Day 2 (07/12/2024)
