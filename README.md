@@ -33,13 +33,12 @@
 ## Morning Section
 ### 1) Dr. Vo Sy Nam presents "Functional-oriented analysis of multi-omics data in The Vietnam Genome Program: A Perspective"
 ### 2) Dr. Cong Luan Nguyen presents "Mapping the Future with Spatial Genomics"
-### 3) Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy
-### RNA-seq: Downstream Analysis
+### 3) Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy with hands-on section "RNA-seq: Downstream Analysis Part I"
 ### [**Data can be downloaded via the link**](https://drive.google.com/drive/folders/18MYkREbWRh5JZLFii8jJQ7_4RfT8qa0z?usp=sharing)
 ● Gene Counts\
 ● [**Calling Differential Gene Expression (DGE)**](https://colab.research.google.com/drive/1JcPoLnZtEZoJH9z6M1_ViP23tN9vOUVf?usp=sharing)
 ## Afternoon Section
-### RNA-seq: Downstream Analysis
+### Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy with hands-on section "RNA-seq: Downstream Analysis Part II"
 ### [**Data can be downloaded via the link**](https://drive.google.com/drive/folders/18MYkREbWRh5JZLFii8jJQ7_4RfT8qa0z?usp=sharing)
 ● Pathway-based Analysis\
 ● Gene ontology analysis\
