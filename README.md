@@ -11,5 +11,8 @@
 ### Dr. Deeksha Bhartiya presents "Beyond the Basics: Innovative Applications of RNA Sequencing in Research" (Keynote 1)
 ### 
 ### 
-
+## Day 2 (07/12/2024)
+### Dr. Vo Sy Nam presents "Functional-oriented analysis of multi-omics data in The Vietnam Genome Program: A Perspective"
+### Dr. Cong Luan Nguyen presents "Mapping the Future with Spatial Genomics"
+### 
 
