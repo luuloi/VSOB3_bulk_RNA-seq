@@ -10,7 +10,7 @@
 ## Morning Section
 ### [**1) Dr. Cuong presents "VIETNAM SCHOOL OF BIOLOGY (VSOB): Past, Present and Future"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/d29ef639ea3bae0c557753d6c8d4ef70033b8224/Day1_20241206/VSOB-intro_Dr_Cuong.pdf)
 ### 2) Dr. Tran Thanh Son presents "The impacts and international extension of VSOB"
-### [**3) Dr. Deeksha Bhartiya presents "Beyond the Basics: Innovative Applications of RNA Sequencing in Research" (Keynote 1)**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/d29ef639ea3bae0c557753d6c8d4ef70033b8224/Day1_20241206/)
+### [**3) Dr. Deeksha Bhartiya presents "Beyond the Basics: Innovative Applications of RNA Sequencing in Research" (Keynote 1)**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/97672e51d70ee2e5bab0288eac808616ac721a2d/Day1_20241206/Invited_Talks_RNAseq-Talk-VSOB3-DeekshaBhartiya.pdf)
 ### [**4) Dr. Nguyen Thuy Vy presents "Fundamental concepts of RNA sequencing experiments"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/2cb9ff8d0e4cc6e48d45dfde287b5933229bec8d/Day1_20241206/01-VSOB3-NTVy-FundamentalConcepts.pdf)
 ### [**5) Dr. Nguyen Thuy Vy presents "A Guide for Designing and Analyzing RNA-Seq Data"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/2cb9ff8d0e4cc6e48d45dfde287b5933229bec8d/Day1_20241206/02-VSOB3-NTVy-ExpDesign.pdf)
 ## Afternoon Section
