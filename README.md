@@ -17,9 +17,9 @@
 ### [**Input Fastq files can be download via link**](https://drive.google.com/drive/folders/14k-lzmrjOdmzaA2a6vyQZwnoL6i_ABEa?usp=sharing)
 ● Quality control - FastQC\
 ● Trimming\
-● Mapping\
+● Mapping
 ### [**Output files from Galaxy can be download via link**](https://usegalaxy.org.au/u/tam-tran/h/rnasequpstreamtest)
-### 6) Dr. Do Hoang Dang Khoa with hands-on section on "RNA-seq: Upstream Analysis Part II
+### 6) Dr. Do Hoang Dang Khoa with hands-on section on "RNA-seq: Upstream Analysis Part II"
 ### [**Input files from Galaxy can be download via link**](https://usegalaxy.org.au/u/tam-tran/h/rnasequpstreamtest)
 ● Mapped post-processing\
 ● Alignment QC
