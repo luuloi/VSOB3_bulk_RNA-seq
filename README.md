@@ -35,7 +35,7 @@
 ### RNA-seq: Downstream Analysis
 ### [**Data can be download via the link**](https://drive.google.com/drive/folders/18MYkREbWRh5JZLFii8jJQ7_4RfT8qa0z?usp=sharing)
 ● Gene Counts\
-● Differential Gene Expression
+● [Calling Differential Gene Expression (DGE)**](https://colab.research.google.com/drive/1JcPoLnZtEZoJH9z6M1_ViP23tN9vOUVf?usp=sharing)
 ## Afternoon Section
 ### RNA-seq: Downstream Analysis
 ### [**Data can be download via the link**](https://drive.google.com/drive/folders/18MYkREbWRh5JZLFii8jJQ7_4RfT8qa0z?usp=sharing)
