@@ -37,12 +37,12 @@
 ### 3) Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy with hands-on section "RNA-seq: Downstream Analysis Part I"
 ### [**Data can be downloaded via the link**](https://drive.google.com/drive/folders/18MYkREbWRh5JZLFii8jJQ7_4RfT8qa0z?usp=sharing)
 ● [**Bulk RNA-seq bam visulization in IGV**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/e7b9d49c9642e1cd7df5e4acb454b604fa8c28a1/Day2_20241207/IGV_bulk_RNASeq.pdf)\
-● Gene Counts\
+● Gene Counts
 ##
 ## Afternoon Section
 ### Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy with hands-on section "RNA-seq: Downstream Analysis Part II"
 ### [**4)Data can be downloaded via the link**](https://drive.google.com/drive/folders/18MYkREbWRh5JZLFii8jJQ7_4RfT8qa0z?usp=sharing)
-● [**Calling Differential Gene Expression (DGE)**](https://colab.research.google.com/drive/1JcPoLnZtEZoJH9z6M1_ViP23tN9vOUVf?usp=sharing)
+● [**Calling Differential Gene Expression (DGE)**](https://colab.research.google.com/drive/1JcPoLnZtEZoJH9z6M1_ViP23tN9vOUVf?usp=sharing)\
 ● Pathway-based Analysis\
 ###
 ### Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy with hands-on section "RNA-seq: Downstream Analysis Part III"
