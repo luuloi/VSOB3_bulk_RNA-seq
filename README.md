@@ -14,8 +14,8 @@
 ## Day 2 (07/12/2024)
 ### Dr. Vo Sy Nam presents "Functional-oriented analysis of multi-omics data in The Vietnam Genome Program: A Perspective"
 ### Dr. Cong Luan Nguyen presents "Mapping the Future with Spatial Genomics"
-### Dr. Luu Phuc Loi,
+### Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy
 #### RNA-seq: Downstream Analysis
-● Gene Counts
+● Gene Counts\
 ● Differential Gene Expression
 
