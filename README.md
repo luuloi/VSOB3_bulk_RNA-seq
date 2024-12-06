@@ -6,7 +6,7 @@
 
 #
 ## Day 1 (06/12/2024)
-### [**Dr Cuong presents "VIETNAM SCHOOL OF BIOLOGY (VSOB): Past, Present and Future"**] ("https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/d29ef639ea3bae0c557753d6c8d4ef70033b8224/Day1_20241206/VSOB-intro_Dr_Cuong.pdf")
+### [**Dr Cuong presents "VIETNAM SCHOOL OF BIOLOGY (VSOB): Past, Present and Future"**] (https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/d29ef639ea3bae0c557753d6c8d4ef70033b8224/Day1_20241206/VSOB-intro_Dr_Cuong.pdf)
 ### Dr Tran Thanh Son presents "The impacts and international extension of VSOB"
 ### Dr. Deeksha Bhartiya presents "Beyond the Basics: Innovative Applications of RNA Sequencing in Research" (Keynote 1)
 ### 
