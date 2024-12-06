@@ -14,7 +14,7 @@
 ### [**4) Dr. Nguyen Thuy Vy presents "Fundamental concepts of RNA sequencing experiments"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/2cb9ff8d0e4cc6e48d45dfde287b5933229bec8d/Day1_20241206/01-VSOB3-NTVy-FundamentalConcepts.pdf)
 ### [**5) Dr. Nguyen Thuy Vy presents "A Guide for Designing and Analyzing RNA-Seq Data"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/2cb9ff8d0e4cc6e48d45dfde287b5933229bec8d/Day1_20241206/02-VSOB3-NTVy-ExpDesign.pdf)
 ## Afternoon Section
-### [**6) Dr. Tran Thi Thanh Tam with hands-on section on "RNA-seq: Upstream Analysis Part I"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/c85de92dedf1be0657ce446a7a05ef33513db356/Day1_20241206/03-VSOB3_RNA_seq_Upstream_Analysis_partI_Tam_Tran_part1.pdf)
+### [**6) Dr. Tran Thi Thanh Tam with hands-on section "RNA-seq: Upstream Analysis Part I"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/c85de92dedf1be0657ce446a7a05ef33513db356/Day1_20241206/03-VSOB3_RNA_seq_Upstream_Analysis_partI_Tam_Tran_part1.pdf)
 #### Create Galaxy account at https://usegalaxy.org.au/login/start?redirect=None
 #### Link for training in Galaxy at https://usegalaxy.org.au/join-training/vsob3/
 ### [**Input Fastq files can be downloaded via link**](https://drive.google.com/drive/folders/14k-lzmrjOdmzaA2a6vyQZwnoL6i_ABEa?usp=sharing)
@@ -22,7 +22,7 @@
 ● Trimming\
 ● Mapping
 ### [**Output files from Galaxy can be downloaded via link**](https://usegalaxy.org.au/u/tam-tran/h/rnasequpstreamtest)
-### [**7) Dr. Do Hoang Dang Khoa with hands-on section on "RNA-seq: Upstream Analysis Part II"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/4c740a26222f448eddaa83fffde79a4574585ade/Day1_20241206/RNASeq_UPSTREAM_ANALYSIS_PART2.pptx)
+### [**7) Dr. Do Hoang Dang Khoa with hands-on section "RNA-seq: Upstream Analysis Part II"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/4c740a26222f448eddaa83fffde79a4574585ade/Day1_20241206/RNASeq_UPSTREAM_ANALYSIS_PART2.pptx)
 ### [**Input files from Galaxy can be downloaded via link**](https://usegalaxy.org.au/u/tam-tran/h/rnasequpstreamtest)
 ● Mapped post-processing\
 ● Alignment QC
