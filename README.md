@@ -3,7 +3,7 @@
 ### December 06-08, 2024 
 ### Quy Nhon, Vietnam
 ### Program of VSOB-3: https://icisequynhon.com/conferences/2024/VSOB-3/program.html
-
+### VSOB-3 Photo: https://photos.app.goo.gl/5eCRjxF7XeZkz2Ck9
 #
 ## Day 1 (06/12/2024)
 ## Morning Section
