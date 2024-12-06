@@ -17,16 +17,16 @@
 ### [**6) Dr. Tran Thi Thanh Tam with hands-on section on "RNA-seq: Upstream Analysis Part I"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/c85de92dedf1be0657ce446a7a05ef33513db356/Day1_20241206/03-VSOB3_RNA_seq_Upstream_Analysis_partI_Tam_Tran_part1.pdf)
 #### Create Galaxy account at https://usegalaxy.org.au/login/start?redirect=None
 #### Link for training in Galaxy at https://usegalaxy.org.au/join-training/vsob3/
-### [**Input Fastq files can be download via link**](https://drive.google.com/drive/folders/14k-lzmrjOdmzaA2a6vyQZwnoL6i_ABEa?usp=sharing)
+### [**Input Fastq files can be downloaded via link**](https://drive.google.com/drive/folders/14k-lzmrjOdmzaA2a6vyQZwnoL6i_ABEa?usp=sharing)
 ● Quality control - FastQC\
 ● Trimming\
 ● Mapping
-### [**Output files from Galaxy can be download via link**](https://usegalaxy.org.au/u/tam-tran/h/rnasequpstreamtest)
+### [**Output files from Galaxy can be downloaded via link**](https://usegalaxy.org.au/u/tam-tran/h/rnasequpstreamtest)
 ### [**7) Dr. Do Hoang Dang Khoa with hands-on section on "RNA-seq: Upstream Analysis Part II"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/4c740a26222f448eddaa83fffde79a4574585ade/Day1_20241206/RNASeq_UPSTREAM_ANALYSIS_PART2.pptx)
-### [**Input files from Galaxy can be download via link**](https://usegalaxy.org.au/u/tam-tran/h/rnasequpstreamtest)
+### [**Input files from Galaxy can be downloaded via link**](https://usegalaxy.org.au/u/tam-tran/h/rnasequpstreamtest)
 ● Mapped post-processing\
 ● Alignment QC
-### [**Output files from Galaxy can be download via link**](https://usegalaxy.org.au/published/history?id=06790bbe3b46aec0)
+### [**Output files from Galaxy can be downloaded via link**](https://usegalaxy.org.au/published/history?id=06790bbe3b46aec0)
 #
 #
 ## Day 2 (07/12/2024)
@@ -35,12 +35,12 @@
 ### 2) Dr. Cong Luan Nguyen presents "Mapping the Future with Spatial Genomics"
 ### 3) Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy
 ### RNA-seq: Downstream Analysis
-### [**Data can be download via the link**](https://drive.google.com/drive/folders/18MYkREbWRh5JZLFii8jJQ7_4RfT8qa0z?usp=sharing)
+### [**Data can be downloaded via the link**](https://drive.google.com/drive/folders/18MYkREbWRh5JZLFii8jJQ7_4RfT8qa0z?usp=sharing)
 ● Gene Counts\
 ● [**Calling Differential Gene Expression (DGE)**](https://colab.research.google.com/drive/1JcPoLnZtEZoJH9z6M1_ViP23tN9vOUVf?usp=sharing)
 ## Afternoon Section
 ### RNA-seq: Downstream Analysis
-### [**Data can be download via the link**](https://drive.google.com/drive/folders/18MYkREbWRh5JZLFii8jJQ7_4RfT8qa0z?usp=sharing)
+### [**Data can be downloaded via the link**](https://drive.google.com/drive/folders/18MYkREbWRh5JZLFii8jJQ7_4RfT8qa0z?usp=sharing)
 ● Pathway-based Analysis\
 ● Gene ontology analysis\
 ● Bulk RNA-seq databases
