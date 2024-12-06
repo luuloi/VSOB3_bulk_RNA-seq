@@ -39,7 +39,7 @@
 ● [**Calling Differential Gene Expression (DGE)**](https://colab.research.google.com/drive/1JcPoLnZtEZoJH9z6M1_ViP23tN9vOUVf?usp=sharing)
 ## Afternoon Section
 ### Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy with hands-on section "RNA-seq: Downstream Analysis Part II"
-### [**Data can be downloaded via the link**](https://drive.google.com/drive/folders/18MYkREbWRh5JZLFii8jJQ7_4RfT8qa0z?usp=sharing)
+### [**4)Data can be downloaded via the link**](https://drive.google.com/drive/folders/18MYkREbWRh5JZLFii8jJQ7_4RfT8qa0z?usp=sharing)
 ● Pathway-based Analysis\
 ● Gene ontology analysis\
 ● Bulk RNA-seq databases
