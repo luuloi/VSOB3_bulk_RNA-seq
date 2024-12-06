@@ -4,6 +4,8 @@
 ### Quy Nhon, Vietnam
 ### Program of VSOB-3: https://icisequynhon.com/conferences/2024/VSOB-3/program.html
 ### Data storage of VSOB-3: https://drive.google.com/drive/folders/12pXGBLSZy4fosrH77yCPr3seUa_th97u?usp=sharing
+### Create Galaxy account at https://usegalaxy.org.au/login/start?redirect=None
+### Link for training in Galaxy at https://usegalaxy.org.au/join-training/vsob3/
 ### VSOB-3 Photo: https://photos.app.goo.gl/5eCRjxF7XeZkz2Ck9
 #
 ## Day 1 (06/12/2024)
