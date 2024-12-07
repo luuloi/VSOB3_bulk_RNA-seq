@@ -49,5 +49,5 @@
 ###
 ### 5) Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy with hands-on section "RNA-seq: Downstream Analysis Part III"
 ● Gene ontology analysis\
-● Review Bulk RNA-seq
+● [**Review Bulk RNA-seq**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/50b19e30ee09e7711aa7ece4d74caf8cb58b6cd8/Day2_20241207/01_introduction_to_lecture_bulk_RNA-seq.pdf)
 
