@@ -48,7 +48,7 @@
 ### 4) Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy with hands-on section "RNA-seq: Downstream Analysis Part II"
 ### [**Data can be downloaded via the link**](https://drive.google.com/drive/folders/18MYkREbWRh5JZLFii8jJQ7_4RfT8qa0z?usp=sharing)
 ● [**Calling Differential Gene Expression (DGE)**](https://colab.research.google.com/drive/1JcPoLnZtEZoJH9z6M1_ViP23tN9vOUVf?usp=sharing)\
-- Practice 2: Differential Gene Expression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JcPoLnZtEZoJH9z6M1_ViP23tN9vOUVf?usp=sharing)
+- Practice 2: Differential Gene Expression [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JcPoLnZtEZoJH9z6M1_ViP23tN9vOUVf?usp=sharing) \
 ● Pathway-based Analysis \
 - Practice 3: Functional Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uvY0IK2Dl75L61A0KEkXAIad3DDaEOMp?usp=sharing)
 ###
