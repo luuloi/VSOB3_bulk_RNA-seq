@@ -51,8 +51,9 @@
 
 ###
 ### 5) Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy with hands-on section "RNA-seq: Downstream Analysis Part III"
+● [**Review Bulk RNA-seq**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/50b19e30ee09e7711aa7ece4d74caf8cb58b6cd8/Day2_20241207/01_introduction_to_lecture_bulk_RNA-seq.pdf)
 ● Gene ontology analysis \
 ● Pathway-based Analysis
 - Practice 3: Functional Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uvY0IK2Dl75L61A0KEkXAIad3DDaEOMp?usp=sharing)
-● [**Review Bulk RNA-seq**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/50b19e30ee09e7711aa7ece4d74caf8cb58b6cd8/Day2_20241207/01_introduction_to_lecture_bulk_RNA-seq.pdf)
+
 
