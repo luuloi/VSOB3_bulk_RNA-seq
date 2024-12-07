@@ -36,6 +36,7 @@
 ### 2) Dr. Cong Luan Nguyen presents "Mapping the Future with Spatial Genomics"
 ### 3) Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy with hands-on section "RNA-seq: Downstream Analysis Part I"
 ### [**Data can be downloaded via the link**](https://drive.google.com/drive/folders/18MYkREbWRh5JZLFii8jJQ7_4RfT8qa0z?usp=sharing)
+### [**Click here to download IGV here**](https://igv.org/doc/desktop/#DownloadPage/)
 ● [**Google Colab introduction**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/65a1d856433e7620d92041cb61e480c39b658ba0/Day2_20241207/An_Introduction_to_Google_Colab_by_Adrian_Dolinay_Medium.pdf): go to https://colab.research.google.com/notebook \
 ● [**Bulk RNA-seq bam visulization in IGV**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/e7b9d49c9642e1cd7df5e4acb454b604fa8c28a1/Day2_20241207/IGV_bulk_RNASeq.pdf): MCF10A ([**.bam](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/5d878910befbd89ada42c6d6693058f284c30968/Day2_20241207/MCF10A_DNMT3A.bam), [**.bai](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/5d878910befbd89ada42c6d6693058f284c30968/Day2_20241207/MCF10A_DNMT3A.bam.bai)), MCF7 ([**.bam](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/5d878910befbd89ada42c6d6693058f284c30968/Day2_20241207/MCF7_DNMT3A.bam), [**.bai](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/5d878910befbd89ada42c6d6693058f284c30968/Day2_20241207/MCF7_DNMT3A.bam.bai))\
 ● Gene Counts\
