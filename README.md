@@ -32,7 +32,7 @@
 #
 ## Day 2 (07/12/2024)
 ## Morning Section
-### 1) Dr. Vo Sy Nam presents "Functional-oriented analysis of multi-omics data in The Vietnam Genome Program: A Perspective"
+### 1) [**Dr. Vo Sy Nam presents "Functional-oriented analysis of multi-omics data in The Vietnam Genome Program: A Perspective"**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/d5ca9b274730b1898f118f6785c2ceb71f1f4a8a/Day2_20241207/Invited_Nam%20Sy%20Vo-VSOB-VGP-public.pdf)
 ### 2) Dr. Cong Luan Nguyen presents "Mapping the Future with Spatial Genomics"
 ### 3) Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy with hands-on section "RNA-seq: Downstream Analysis Part I"
 ### [**Data can be downloaded via the link**](https://drive.google.com/drive/folders/18MYkREbWRh5JZLFii8jJQ7_4RfT8qa0z?usp=sharing)
