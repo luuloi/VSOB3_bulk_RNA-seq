@@ -59,10 +59,10 @@
 #
 ## Day 3 (08/12/2024)
 ## Morning Section
-### 1) Dr. Tran Thi Thanh Tam "Building workflow for bulk RNA-seq with Galaxy"
+### [**1) Dr. Tran Thi Thanh Tam "Building workflow for bulk RNA-seq with Galaxy"**](https://usegalaxy.org.au/u/tam-tran/w/rnaseqqctrimmingmapping)
 ### 2) Dr. Nguyen Thi Lien Hanh presents "Recent Advances and Applications of Single cell RNA-Seq in Infectious Diseases Research"
 ### 3) Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy with hands-on section "RNA-seq: Downstream Analysis Part IV"
-● [**Bulk RNA-seq Database**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/8ee4411ab91c8e3d722588c160f05abd63c9b202/Day3_20241208/Best_Practice_for_Bulk_RNA-seq_analysis_20241208_final.pptx) \
+● [**Bulk RNA-seq Database**](https://www.youtube.com/watch?v=WjHkb_y_yFk&t=2s) \
 ● [**Review Bulk RNA-seq**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/8ee4411ab91c8e3d722588c160f05abd63c9b202/Day3_20241208/Best_Practice_for_Bulk_RNA-seq_analysis_20241208_final.pptx) \
 ● Group Exam: 
 - Paper
