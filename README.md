@@ -64,7 +64,7 @@
 ### 3) Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy with hands-on section "RNA-seq: Downstream Analysis Part IV"
 ● [**Bulk RNA-seq Database**](https://www.youtube.com/watch?v=WjHkb_y_yFk&t=2s) \
 ● [**Review Bulk RNA-seq**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/8ee4411ab91c8e3d722588c160f05abd63c9b202/Day3_20241208/Best_Practice_for_Bulk_RNA-seq_analysis_20241208_final.pptx) \
-● Group Exam: 
-- Paper
+● Group Exam
+- [**Paper**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/a09272cc044c191cf18e0a121104ea1ae3481d47/Day3_20241208/Final_exam_bulk_RNA-seq_nosol_20240812.pptx)
 - Paper with solution
 
