@@ -56,4 +56,13 @@
 ● Pathway-based Analysis
 - Practice 3: Functional Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uvY0IK2Dl75L61A0KEkXAIad3DDaEOMp?usp=sharing)
 
+#
+#
+## Day 3 (08/12/2024)
+## Morning Section
+### 1) Dr. Tran Thi Thanh Tam "Building workflow for bulk RNA-seq with Galaxy"
+### 2) Dr. Nguyen Thi Lien Hanh presents "Recent Advances and Applications of Single cell RNA-Seq in Infectious Diseases Research"
+### 3) Dr. Luu Phuc Loi, Dr. Vu Minh Thiet, Dr. Do Hoang Dang Khoa and Dao Khuong Duy with hands-on section "RNA-seq: Downstream Analysis Part IV"
+● [**Review Bulk RNA-seq**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/c6285b66aa37011a9d13273a6887fd7d631e52bd/Day3_20241208/Best_Practice_for_Bulk_RNA-seq_analysis_20241208.pdf) \
+● Group Exam
 
