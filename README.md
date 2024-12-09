@@ -68,3 +68,8 @@
 - [**Paper**](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/a09272cc044c191cf18e0a121104ea1ae3481d47/Day3_20241208/Final_exam_bulk_RNA-seq_nosol_20240812.pptx)
 - Paper with solution
 
+##
+## Closing Ceremony
+![alt text](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/f3ff580c1208fc5d56c81e534aa2f0853c0be8ed/VSOB-3-7577.jpg)
+##
+![alt text](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/f3ff580c1208fc5d56c81e534aa2f0853c0be8ed/VSOB-3-7501.jpg)
