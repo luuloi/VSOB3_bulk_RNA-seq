@@ -5,6 +5,9 @@
 ### Program of VSOB-3: https://icisequynhon.com/conferences/2024/VSOB-3/program.html
 ### Data storage of VSOB-3: https://drive.google.com/drive/folders/12pXGBLSZy4fosrH77yCPr3seUa_th97u?usp=sharing
 ### VSOB-3 Photo: https://photos.app.goo.gl/5eCRjxF7XeZkz2Ck9
+# School Starting
+# ![alt text](https://github.com/luuloi/VSOB3_bulk_RNA-seq/blob/9755dd6d653812c74e026dc43879608374b551b7/VSOB-3-0031.jpg)
+##
 #
 ## Day 1 (06/12/2024)
 ## Morning Section
